@@ -7,46 +7,6 @@
       "difficulty": "easy",
       "qus": "10",
       "score": 4
-    },
-    {
-      "id": 1676967962313,
-      "name": "krishan",
-      "category": "9",
-      "difficulty": "easy",
-      "qus": "10",
-      "score": 1
-    },
-    {
-      "id": 1676968537633,
-      "name": "ram",
-      "category": "22",
-      "difficulty": "medium",
-      "qus": "10",
-      "score": 0
-    },
-    {
-      "id": 1676968635056,
-      "name": "krishan",
-      "category": "9",
-      "difficulty": "easy",
-      "qus": "10",
-      "score": 4
-    },
-    {
-      "id": 1676969143466,
-      "name": "raja",
-      "category": "21",
-      "difficulty": "easy",
-      "qus": "10",
-      "score": 0
-    },
-    {
-      "id": 1676969209764,
-      "name": "new user",
-      "category": "21",
-      "difficulty": "easy",
-      "qus": "12",
-      "score": 2
     }
   ]
 }
